@@ -15,3 +15,5 @@ z = line[:x] + replacement + line[y + 1:]          # I'm directly passing value 
 
 print z
 #print z1        #Un-comment "z1" variable before un-commenting this !!
+
+# CODED BY - GAURAV PADAWE
