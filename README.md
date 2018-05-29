@@ -16,8 +16,3 @@
 # line of text. Put the answer in the variable 'replaced'.
 # Hint: You can find out the length of a string by command
 # len(string). We might test your code with different markers!
-
-# Example 2 # uncomment this to test with different input
-marker2 = "EY"
-replacement2 = "Eyjafjallajokull"
-line2 = "The eruption of the volcano EY in 2010 disrupted air travel in Europe for 6 days."
