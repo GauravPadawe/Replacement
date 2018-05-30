@@ -1,7 +1,6 @@
 # Replacement
-###############################################
 #       Exercise by Websten from forums       #
-###############################################
+
 To minimize errors when writing long texts with complicated expressions you could replace the tricky parts with a marker.
 
 Write a program that takes a line of text and finds the first occurrence of a certain marker and replaces it with a replacement text. 
